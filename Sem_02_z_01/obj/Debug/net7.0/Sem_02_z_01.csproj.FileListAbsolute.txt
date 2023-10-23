@@ -1,0 +1,14 @@
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/DZ/Sem_02_z_01/bin/Debug/net7.0/Sem_02_z_01
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/DZ/Sem_02_z_01/bin/Debug/net7.0/Sem_02_z_01.deps.json
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/DZ/Sem_02_z_01/bin/Debug/net7.0/Sem_02_z_01.runtimeconfig.json
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/DZ/Sem_02_z_01/bin/Debug/net7.0/Sem_02_z_01.dll
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/DZ/Sem_02_z_01/bin/Debug/net7.0/Sem_02_z_01.pdb
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/DZ/Sem_02_z_01/obj/Debug/net7.0/Sem_02_z_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/DZ/Sem_02_z_01/obj/Debug/net7.0/Sem_02_z_01.AssemblyInfoInputs.cache
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/DZ/Sem_02_z_01/obj/Debug/net7.0/Sem_02_z_01.AssemblyInfo.cs
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/DZ/Sem_02_z_01/obj/Debug/net7.0/Sem_02_z_01.csproj.CoreCompileInputs.cache
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/DZ/Sem_02_z_01/obj/Debug/net7.0/Sem_02_z_01.dll
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/DZ/Sem_02_z_01/obj/Debug/net7.0/refint/Sem_02_z_01.dll
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/DZ/Sem_02_z_01/obj/Debug/net7.0/Sem_02_z_01.pdb
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/DZ/Sem_02_z_01/obj/Debug/net7.0/Sem_02_z_01.genruntimeconfig.cache
+/Users/lesenok/Documents/Учеба/Разработчик/Лекции и семинары/Знакомство с языками программирования/Знакомство с С#/DZ/Sem_02_z_01/obj/Debug/net7.0/ref/Sem_02_z_01.dll
